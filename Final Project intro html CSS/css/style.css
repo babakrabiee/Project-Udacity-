@@ -1,0 +1,21 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    color: darkgray
+    font-weight: 300;
+}
+
+.text-muted {
+    color: black
+}
+
+.text-tin {
+    font-height: 100px;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
